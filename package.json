@@ -13,7 +13,7 @@
     "index.js"
   ],
   "engines": {
-    "node": ">=0.8"
+    "node": ">=0.10.0"
   },
   "homepage": "https://github.com/CrissDev/nodejs-api",
   "repository": {
