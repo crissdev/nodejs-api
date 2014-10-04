@@ -1,6 +1,6 @@
 # nodejs-api
 
-[![Build Status](https://travis-ci.org/CrissDev/nodejs-api.png?branch=master)](https://travis-ci.org/CrissDev/nodejs-api)
+[![Build Status](https://travis-ci.org/crissdev/nodejs-api.png?branch=master)](https://travis-ci.org/crissdev/nodejs-api)
 
 > Expose node.js modules through an object
 
